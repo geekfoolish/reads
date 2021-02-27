@@ -11,6 +11,18 @@
       "catagory": ["Autobiography", "Biography"],
       "read": "2021-02-27",
       "rating": "Favorite"
+    },
+    {
+      "title": "Ancillary Justice",
+      "isbn": "031624662X",
+      "author": ["Ann Leckie"],
+      "pages": "416",
+      "description": "On a remote, icy planet, the soldier known as Breq is drawing closer to completing her quest.",
+      "website": "n/a",
+      "published": "2013-10-01",
+      "catagory": ["Science Fiction, Space Opera"],
+      "read": "2021-02-27",
+      "rating": "Recommend"    
     }
   ]
 }
