@@ -1,1 +1,16 @@
-
+{
+  "books": [
+    {
+      "title": "The Autobiography of Malcolm X",
+      "isbn": "0345350685",
+      "author": ["Malcolm X", "Alex Haley"],
+      "pages": "466",
+      "description": "The Autobiography of Malcolm X is an account of the life of Malcolm X, born Malcolm Little (1925–1965), who became a human rights activist",
+      "website": "n/a",
+      "published": "1965-10-29",
+      "catagory": ["Autobiography", "Biography"],
+      "read": "2021-02-27",
+      "rating": "Favorite"
+    }
+  ]
+}
