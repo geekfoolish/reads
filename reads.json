@@ -20,9 +20,69 @@
       "description": "On a remote, icy planet, the soldier known as Breq is drawing closer to completing her quest.",
       "website": "n/a",
       "published": "2013-10-01",
-      "catagory": ["Science Fiction", "Space Opera"],
+      "catagory": ["Science Fiction", "Space Opera", "Novel"],
       "read": "2021-02-27",
       "rating": "Recommend"    
+    },
+    {
+      "title": "Screenplay",
+      "isbn": "9780385339032",
+      "author": ["Syd Field"],
+      "pages": "319",
+      "description": "A generation of screenwriters has used Syd File's bestselling books to ignite successful careers in film",
+      "website": "n/a",
+      "published": "2005-11-29",
+      "catagory": ["Screenwriting"],
+      "read": "2021-02-28",
+      "rating": "Favorite"    
+    },
+    {
+      "title": "Not For Bread Alone",
+      "isbn": "4569210899",
+      "author": ["Ann Leckie"],
+      "pages": "163",
+      "description": "From one of the century's most accomplished business leaders comes a unique and profoundly thoughtful approach to financial and personal achievement.",
+      "website": "n/a",
+      "published": "1984-01-01",
+      "catagory": ["Business, People, Biography"],
+      "read": "2021-02-28",
+      "rating": "Favorite"    
+    },
+    {
+      "title": "Freedom from the Known",
+      "isbn": "0060648082",
+      "author": ["Jiddu Krishnamurti", "Mary Lutyens"],
+      "pages": "124",
+      "description": "Krishnamurti shows how people can free themselves radically and immediately from the tyranny of the expected, no matter what their age--opening the door to transforming society and their relationships.",
+      "website": "n/a",
+      "published": "2009-03-10",
+      "catagory": ["Philosophy"],
+      "read": "2021-02-28",
+      "rating": "Favorite"   
+    },
+    {
+      "title": "The Metrosexual Guide To Style: A Handbook For The Modern Man",
+      "isbn": "0306813432",
+      "author": ["Michael Flocker"],
+      "pages": "208",
+      "description": "The old-fashioned, repressed, un-moisturized man has been banished to the hinterlands and a new breed is taking center stage.",
+      "website": "n/a",
+      "published": "2003-10-01",
+      "catagory": ["Self-help"],
+      "read": "2021-02-28",
+      "rating": "Favorite"   
+    },
+    {
+      "title": "Juliet, Naked",
+      "isbn": "1594484775",
+      "author": ["Nick Hornby"],
+      "pages": "406",
+      "description": "Nick Hornby returns to his roots—music and messy relationships—in this funny and touching novel that thoughtfully and sympathetically looks at how lives can be wasted but how they are never beyond redemption.",
+      "website": "n/a",
+      "published": "2010-09-07",
+      "catagory": ["Romance", "Novel"],
+      "read": "2021-02-28",
+      "rating": "Recommend"   
     }
   ]
 }
